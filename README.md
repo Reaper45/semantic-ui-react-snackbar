@@ -1,9 +1,9 @@
 ## Semantic-UI-React-SnackBar
 React JS Component implementation of a Snackbar using  Semantic UI React.
->>> This readme is for me.
+> This readme is for me.
 
 ### Usage
-```js
+```javascript
 import SnackBar from 'path/to/snackbar/index.js';
 
 .
