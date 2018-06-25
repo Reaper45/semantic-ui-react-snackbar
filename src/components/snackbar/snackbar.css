@@ -1,0 +1,13 @@
+
+.message {
+  min-width: 500px;
+  border-left: solid 3px;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  border-radius: 0 !important;
+  font-size: 1em;
+  position: absolute !important;
+  z-index: 100;
+  margin: 1em !important;
+  right: 1em;
+}
