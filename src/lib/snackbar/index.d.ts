@@ -1,0 +1,1 @@
+declare module 'src/lib/snackbar/snackbar.css';

@@ -1,0 +1,14 @@
+{
+  "name": "semantic-ui-react-snackbar",
+  "version": "1.1.0",
+  "main": "src/lib/index.tsx",
+  "repository": "https://github.com/Reaper45/semantic-ui-react-snackbar.git",
+  "author": "Joram <jomwashighadi@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.13.1",
+    "semantic-ui-react": "^0.88.2",
+    "typescript": "^3.9.2"
+  }
+}
